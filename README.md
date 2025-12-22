@@ -31,7 +31,7 @@ Currently a university student using **KVM/Libvirt** and **Kubernetes** to build
 ### Tools & Workflow
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,vscode,latex,notion" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,gitlab,latex,md,notion,vscode" alt="Tools" />
 </div>
 
 <br />
