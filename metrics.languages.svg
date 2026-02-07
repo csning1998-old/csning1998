@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 139kb of code in 250 edited files across 9 commits</small>
+                <small>estimation from 218kb of code in 402 edited files across 11 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.0840662825002" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="409.0840662825002" y="0" width="28.815793101546774" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="437.899859384047" y="0" width="22.10014061595302" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.75695482553687" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="421.75695482553687" y="0" width="21.4008094213731" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="443.15776424691" y="0" width="16.84223575309002" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>64.5 kB</div>
-                                <div>88.93%</div>
+                                <div>125 kB</div>
+                                <div>91.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.48 kB</div>
-                                <div>4.8%</div>
+                                <div>5.02 kB</div>
+                                <div>3.66%</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 Jinja
                             </div>
                             <small>
-                                <div>4.54 kB</div>
-                                <div>6.26%</div>
+                                <div>6.38 kB</div>
+                                <div>4.65%</div>
                             </small>
                         </div>
                     </section>
