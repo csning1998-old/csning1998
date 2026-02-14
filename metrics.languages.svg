@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 300kb of code in 487 edited files across 15 commits</small>
+                <small>estimation from 369kb of code in 546 edited files across 16 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.43028827946296" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="411.43028827946296" y="0" width="28.642425405353542" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="440.07271368481645" y="0" width="14.819452930512984" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="454.8921666153295" y="0" width="5.107833384670542" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.77558906579503" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="417.77558906579503" y="0" width="22.527115096685026" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="440.3027041624801" y="0" width="15.680012073217709" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="455.9827162356978" y="0" width="4.017283764302196" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>177 kB</div>
-                                <div>89.44%</div>
+                                <div>228 kB</div>
+                                <div>90.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +49,8 @@
                                 Jinja
                             </div>
                             <small>
-                                <div>6.38 kB</div>
-                                <div>3.22%</div>
+                                <div>8.58 kB</div>
+                                <div>3.41%</div>
                             </small>
                         </div>
                     </section>
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>12.3 kB</div>
-                                <div>6.23%</div>
+                                <div>4.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>2.20 kB</div>
-                                <div>1.11%</div>
+                                <div>0.87%</div>
                             </small>
                         </div>
                     </section>
