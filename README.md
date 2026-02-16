@@ -4,16 +4,6 @@ DevOps Engineer focused on **Infrastructure as Code** and **Container Orchestrat
 
 Currently a university student using **KVM/Libvirt** and **Kubernetes** to build on-premise solutions.
 
-### Assets
-
-<div align="center">
-  <img src="./metrics.header.svg" alt="Header" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./metrics.languages.svg" alt="Most Used Languages" width="100%" />
-</div>
-
 ## Main Skills Stacks
 
 ### Infrastructure & Cloud Native
